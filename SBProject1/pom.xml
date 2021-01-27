@@ -13,7 +13,7 @@
     <artifactId>SBProject1</artifactId>
     <version>1.0-SNAPSHOT</version>
 
-    <packaging>sbar</packaging>
+    <packaging>pom</packaging>
 
     <description/>
     <!--build>
